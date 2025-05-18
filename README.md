@@ -8,8 +8,7 @@
 
 --> The goal of this project was to derive insights into how the pandemic affected world economies and provide data-driven recommendations for resilience.
 
-✅ DATASETS:
-
+DATASETS:
 ✅ The dataset combines: COVID-19 case data from Google's COVID-19 Open Data
 
 ✅ Socio-economic indicators like GDP, GDP per capita, and Human Capital Index
@@ -36,7 +35,7 @@
 
 ✅ Outlier Detection
 
-✅ Descriptive Analysis: Summary statistics and distributions of economic indicators. It aslo has pie charts and bar plots to visualize GDP and HCI per country
+--> Descriptive Analysis: Summary statistics and distributions of economic indicators. It aslo has pie charts and bar plots to visualize GDP and HCI per country
 
 --> Diagnostic Analysis: Explored relationships using scatter plots, histograms, and line charts; Clustered countries by GDP patterns (k-means), Detected economic outliers and Calculated correlations between GDP and GDP per capita
 
