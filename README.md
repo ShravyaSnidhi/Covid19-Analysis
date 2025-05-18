@@ -9,6 +9,7 @@
 --> The goal of this project was to derive insights into how the pandemic affected world economies and provide data-driven recommendations for resilience.
 
 DATASETS:
+
 ✅ The dataset combines: COVID-19 case data from Google's COVID-19 Open Data
 
 ✅ Socio-economic indicators like GDP, GDP per capita, and Human Capital Index
