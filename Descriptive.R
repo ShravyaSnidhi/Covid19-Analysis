@@ -11,12 +11,6 @@ str(data)
 # Check the column names to verify the presence of 'location' and 'human_capital_index'
 names(data)
 
-# As the error suggests 'location' column is not found, we'll inspect the actual column names
-# and use the appropriate column name for the 'location' variable
-
-# Assuming the column name for countries is 'Country' instead of 'location'
-# We'll also ensure 'human_capital_index' column exists with correct column name
-
 # Create a pie chart for Human Capital Index distribution
 pie_data <- data.frame(Country = data$location_key, Human_Capital_Index = data$human_capital_index)
 
