@@ -1,11 +1,11 @@
---> This project analyzes the economic impact of the COVID-19 pandemic using data science techniques in R. It integrates global COVID-19 data with economic indicators (GDP, Human Capital Index, etc.) and applies a four-step analytics framework:
+This project analyzes the economic impact of the COVID-19 pandemic using data science techniques in R. It integrates global COVID-19 data with economic indicators (GDP, Human Capital Index, etc.) and applies a four-step analytics framework:
 
 ✅ Descriptive: What happened?
 ✅ Diagnostic: Why did it happen?
 ✅ Predictive: What might happen next? 
 ✅Prescriptive: What should be done?
 
---> The goal of this project was to derive insights into how the pandemic affected world economies and provide data-driven recommendations for resilience.
+The goal of this project was to derive insights into how the pandemic affected world economies and provide data-driven recommendations for resilience.
 
 DATASETS:
 
